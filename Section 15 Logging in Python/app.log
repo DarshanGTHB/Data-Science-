@@ -1,0 +1,10 @@
+2025-05-23 16:18:31:-root-DEBUG-this is a logging msg
+2025-05-23 16:18:31:-root-INFO-info
+2025-05-23 16:18:31:-root-WARNING-Warning
+2025-05-23 16:18:31:-root-ERROR-Error
+2025-05-23 16:18:31:-root-CRITICAL-Critical
+2025-05-23 16:19:21:-root-DEBUG-this is a logging msg
+2025-05-23 16:19:21:-root-INFO-info
+2025-05-23 16:19:21:-root-WARNING-Warning
+2025-05-23 16:19:21:-root-ERROR-Error
+2025-05-23 16:19:21:-root-CRITICAL-Critical
